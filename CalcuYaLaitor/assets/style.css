@@ -1,0 +1,17 @@
+body {
+  background-color: #E6007E;
+  color: white;
+}
+table {
+  width: 70%;
+  margin: 10px auto;
+ }
+table, th, td {
+    border: solid 1px #DDD;
+    border-collapse: collapse;
+    padding: 2px 3px;
+    text-align: center;
+}
+input[type=text] {
+  width: 50px;
+}
